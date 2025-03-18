@@ -86,9 +86,13 @@ Folder Structure Overview
 
 
 🏆 Advantages of This System
+
 ✔️ Secure key generation and storage
+
 ✔️ Fast encryption with symmetric keys
+
 ✔️ Secure exchange using asymmetric keys
+
 ✔️ Protection against man-in-the-middle attacks with Diffie-Hellman
 
 
