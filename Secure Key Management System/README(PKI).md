@@ -71,12 +71,7 @@ Asymmetric keys generated and stored securely
               +--------------------------+
               | Client Uses Public Key   |
               +--------------------------+
-✅ Pros and Cons of PKI
 
-  Pros	                       Cons
-No need to share private key   	Slow encryption and decryption
-Secure over insecure channels	  High computational cost
-Prevents key compromise through  validation	Complex infrastructure
 
 
 Folder Structure Overview
